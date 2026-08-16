@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/save-prediction.js": {
+      "maxDuration": 30
+    }
+  }
+}
